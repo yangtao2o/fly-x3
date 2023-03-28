@@ -14,3 +14,6 @@
 - [三分机场（9块5一年）](https://xn--ehq00hgtfdmt.xyz/)
 - [良心机场（6块钱一年）](https://xn--mes91r2ng7p4a.com/)
 
+## 其他资料
+
+- [Clash等使用教程](https://wikibos.com/)
