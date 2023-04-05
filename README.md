@@ -1,5 +1,7 @@
 # Fly-x3
 
+科学上网查资料，禁止不当言论！
+
 ## 稳定、跨端、多设备
 
 - [Pigcha加速器](http://run.weaksharedptr.com/register?share_id=41f8393e-9c86-4263-9f00-cb39ce4b214c)，累计超10000M专线，全平台，不限速，8k视频随你看，支持包月无限流量及无限期流量，速速下载客户端免费体验吧
@@ -24,3 +26,4 @@
 ## 其他资料
 
 - [Clash等使用教程](https://wikibos.com/)
+- [翻墙是不是犯罪？会不会被抓？中国大陆境内翻墙安全的话题，一个视频给你彻底讲清楚！](https://youtu.be/mIif-7U2tEU)
