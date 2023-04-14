@@ -8,7 +8,7 @@
 
 ## 便宜实用
 
-- [八方云（12块钱一年）](https://user.bafang.vip/#/register?code=eyx6qckX) - 已试用，简洁
+- [八方云（12块钱一年）](https://bafangyun.vip/#/register?code=eyx6qckX) - 已试用，简洁
 - [三毛机场（3块钱一年）](https://www.xn--ehqx7tcnnope.xyz/#/register?code=3xdChn8t) - 已试用，主要买的节点，依赖Clash
 - [赔钱机场（8块钱一年）](https://xn--mes358aby2apfg.com/)
 - [米丝云（9块9一年）](https://www.misiy.cc/)
