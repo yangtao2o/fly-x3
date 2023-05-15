@@ -1,6 +1,6 @@
 # Fly-x3
 
-科学上网查资料，禁止不当言论！
+科学上网查资料，禁止不当言论！挂了的机场，会择时删除，使用之前，注意甄别！！！
 
 ## 稳定、跨端、多设备
 
@@ -8,7 +8,6 @@
 
 ## 便宜实用
 
-- [八方云（12块钱一年）](https://bafangyun.vip/#/register?code=eyx6qckX) - 已试用，简洁
 - [三毛机场（3块钱一年）](https://www.xn--ehqx7tcnnope.xyz/#/register?code=3xdChn8t) - 已试用，主要买的节点，依赖Clash
 - [赔钱机场（8块钱一年）](https://xn--mes358aby2apfg.com/)
 - [米丝云（9块9一年）](https://www.misiy.cc/)
