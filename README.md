@@ -6,9 +6,9 @@
 
 打不开的网站，也许过期了，也可能需要先翻个墙！！！
 
-## 稳定、跨端、多设备
+## 用了好几年，稳定、流畅
 
-- [Pigcha加速器](http://run.weaksharedptr.com/register?share_id=41f8393e-9c86-4263-9f00-cb39ce4b214c)，累计超10000M专线，全平台，不限速，8k视频随你看，支持包月无限流量及无限期流量，速速下载客户端免费体验吧
+- [三毛机场](https://a.smjcdh.com/#/register?code=3xdChn8t) 
 
 ## 便宜实用
 
