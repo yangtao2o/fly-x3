@@ -6,13 +6,13 @@
 
 打不开的网站，也许过期了，也可能需要先翻个墙！！！
 
-## 用了好几年，稳定、流畅
+## 用了好几年，稳定、流畅的节点
 
-- [三毛机场](https://a.smjcdh.com/#/register?code=3xdChn8t) 
+- [三毛机场](https://g-1.xn--ehqx7tcnnope.com/#/register?code=3xdChn8t) ，若无法访问，走这里[导航页](https://xn--ehqx35aimmzwv.com/)
 
 ## 便宜实用
 
-- [三毛机场（3块钱一年）](https://a.smjcdh.com/#/register?code=3xdChn8t) - 已试用，主要买的节点，依赖Clash
+- [三毛机场（3块钱一年）](https://g-1.xn--ehqx7tcnnope.com/#/register?code=3xdChn8t) - 已试用，主要买的节点
 - [赔钱机场（8块钱一年）](https://xn--mes358aby2apfg.com/)
 - [米丝云（9块9一年）](https://www.misiy.cc/)
 - [一分机场（12块钱一年）](https://xn--4gqx1hgtfdmt.com/)
